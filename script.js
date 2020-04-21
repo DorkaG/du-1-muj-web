@@ -22,7 +22,7 @@ console.log( prevodMinutNaVteriny(1, 1) )
 
 
 
-// let vek = parseInt(prompt("Zadejte věk:"), 10);
+let vek = parseInt(prompt("Zadejte věk:"), 10);
 
 // function muzeVolit (vek) {
 //     if (vek >= 18) {
